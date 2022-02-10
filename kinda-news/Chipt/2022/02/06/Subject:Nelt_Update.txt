@@ -1,0 +1,12 @@
+Dear Nelt riders,
+
+I'm super excited to announce a huge update to the Nelt map! This overhaul brings in a few big changes which I hope will be very useful. Here are the highlights:
+
+📚 Portal directory. All stops are now listed on the right side of the page — just click on one to see all its information. You can also click on a portal's associated country to see every other portal in the same country!
+
+📱 Mobile support. The portal directory is visible on all devices, so you can look up coordinates without having to alt-tab!
+
+🔍 Advanced search. The search bar is a lot more friendly now. You can type in a portal's name, associated country, some keywords from the description, or even coordinates!
+
+Happy Nelt-ing!
+https://chipthrasher.com/nelt
